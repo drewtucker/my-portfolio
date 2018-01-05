@@ -65,6 +65,8 @@ li {
   font-size: 1.5vw;
 }
 
+/* Class stylings */
+
 .highlight {
   color: yellowgreen;
 }
@@ -92,6 +94,7 @@ li {
   font-size: 1.5vw;
 }
 
+/* ID Stylings */
 
 #portfolio {
   text-align: center;
