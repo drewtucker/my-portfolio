@@ -38,30 +38,35 @@ h4 {
 }
 
 h5 {
-  color: white;
   font-size: 1.5vw
   font-weight: bolder;
+  padding-top: 30px;
 }
 
 img {
   display: block;
   margin: auto;
+  width: 40%;
+  height: 40%;
 }
 
 a {
+  font-size: 1.8vw;
   color: white;
 }
 
 p {
   color: lightgray;
+  font-size: 1.5vw
 }
 
 li {
   color: lightgray;
+  font-size: 1.5vw;
 }
 
 .highlight {
-  color: dodgerblue;
+  color: yellowgreen;
 }
 
 .heading {
