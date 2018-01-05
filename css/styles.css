@@ -82,13 +82,21 @@ li {
   color: yellowgreen;
 }
 
+.button {
+  background-color: yellowgreen;
+  margin-left: 5%;
+  border-style: outset;
+  border-radius: 20%;
+  color: white;
+}
+
 
 #portfolio {
   text-align: center;
   font-size: 3vw;
   color: white;
   margin-top: 30%;
-  margin-bottom: 2%;
+  
 }
 
 #ofcourse {
