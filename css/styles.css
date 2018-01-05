@@ -78,10 +78,6 @@ li {
   padding-top: 4%;
 }
 
-.glyphicon glyphicon-menu-up {
-  color: yellowgreen;
-}
-
 .button {
   background-color: yellowgreen;
   margin-left: 5%;
@@ -90,17 +86,23 @@ li {
   color: white;
 }
 
+.languages {
+  color: yellowgreen;
+  text-align: left;
+  font-size: 1.5vw;
+}
+
 
 #portfolio {
   text-align: center;
   font-size: 3vw;
   color: white;
   margin-top: 30%;
-  
+
 }
 
 #ofcourse {
-  padding-left: 30px;
+  padding-left: 40px;
 }
 
 #back-to-top {
