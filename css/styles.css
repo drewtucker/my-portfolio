@@ -78,6 +78,11 @@ li {
   padding-top: 4%;
 }
 
+.glyphicon glyphicon-menu-up {
+  color: yellowgreen;
+}
+
+
 #portfolio {
   text-align: center;
   font-size: 3vw;
@@ -88,4 +93,10 @@ li {
 
 #ofcourse {
   padding-left: 30px;
+}
+
+#back-to-top {
+  float: left;
+  text-align: center;
+  padding-left: 5%;
 }
